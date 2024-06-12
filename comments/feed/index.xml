@@ -1,0 +1,40 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Комментарии на сайте daniel.kg	</title>
+	<atom:link href="https://toktomushovbayan2001200110.github.io/daniel.kg/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://toktomushovbayan2001200110.github.io/daniel.kg</link>
+	<description></description>
+	<lastBuildDate>Wed, 12 Jun 2024 13:29:52 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<item>
+		<title>
+		Комментарий к записи Будущее искусственного интеллекта: Возможности и вызовы (Комментатор WordPress)		</title>
+		<link>https://toktomushovbayan2001200110.github.io/daniel.kg/budushhee-iskusstvennogo-intellekta-vozmozhnosti-i-vyzovy/#comment-1</link>
+
+		<dc:creator><![CDATA[Комментатор WordPress]]></dc:creator>
+		<pubDate>Wed, 12 Jun 2024 12:00:31 +0000</pubDate>
+		<guid isPermaLink="false">https://toktomushovbayan2001200110.github.io/daniel.kg/?p=1#comment-1</guid>
+
+					<description><![CDATA[Привет! Это комментарий.
+Чтобы начать модерировать, редактировать и удалять комментарии, перейдите на экран «Комментарии» в консоли.
+Аватары авторов комментариев загружаются с сервиса &lt;a href=&quot;https://ru.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Привет! Это комментарий.<br />
+Чтобы начать модерировать, редактировать и удалять комментарии, перейдите на экран «Комментарии» в консоли.<br />
+Аватары авторов комментариев загружаются с сервиса <a href="https://ru.gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
